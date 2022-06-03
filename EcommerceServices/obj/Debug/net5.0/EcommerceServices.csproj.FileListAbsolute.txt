@@ -1,0 +1,15 @@
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\bin\Debug\net5.0\EcommerceServices.deps.json
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\bin\Debug\net5.0\EcommerceServices.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\bin\Debug\net5.0\ref\EcommerceServices.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\bin\Debug\net5.0\EcommerceServices.pdb
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\bin\Debug\net5.0\EcommereCore.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\bin\Debug\net5.0\EcommereCore.pdb
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.csproj.AssemblyReference.cache
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.AssemblyInfo.cs
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.csproj.CopyComplete
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\ref\EcommerceServices.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommerceServices\obj\Debug\net5.0\EcommerceServices.pdb

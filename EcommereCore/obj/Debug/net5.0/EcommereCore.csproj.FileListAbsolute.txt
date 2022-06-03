@@ -1,0 +1,12 @@
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\bin\Debug\net5.0\EcommereCore.deps.json
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\bin\Debug\net5.0\EcommereCore.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\bin\Debug\net5.0\ref\EcommereCore.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\bin\Debug\net5.0\EcommereCore.pdb
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\EcommereCore.GeneratedMSBuildEditorConfig.editorconfig
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\EcommereCore.AssemblyInfoInputs.cache
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\EcommereCore.AssemblyInfo.cs
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\EcommereCore.csproj.CoreCompileInputs.cache
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\EcommereCore.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\ref\EcommereCore.dll
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\EcommereCore.pdb
+F:\1-MVC PROJECT\E-Commerce_API\E-Commerce_API\EcommereCore\obj\Debug\net5.0\EcommereCore.csproj.AssemblyReference.cache

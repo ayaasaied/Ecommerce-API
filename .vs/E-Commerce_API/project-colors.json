@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3ee0a327-4406-4363-bf8a-b7bbee95d8b8": {
+      "ProjectGuid": "3ee0a327-4406-4363-bf8a-b7bbee95d8b8",
+      "DisplayName": "E-Commerce_API",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "a3fc33b8-53e1-4398-bb12-3495c9d70690": {
+      "ProjectGuid": "a3fc33b8-53e1-4398-bb12-3495c9d70690",
+      "DisplayName": "Repository",
+      "ColorIndex": 1
+    },
+    "bf54f178-0963-4526-9539-9dbb65a692ca": {
+      "ProjectGuid": "bf54f178-0963-4526-9539-9dbb65a692ca",
+      "DisplayName": "EcommerceRepository",
+      "ColorIndex": 2
+    },
+    "2a47b2aa-4fa2-40b7-a3da-8dd4c8707156": {
+      "ProjectGuid": "2a47b2aa-4fa2-40b7-a3da-8dd4c8707156",
+      "DisplayName": "EcommerceServices",
+      "ColorIndex": 3
+    },
+    "c7450bd9-d09a-4b3b-aeb4-c4fc6abb719d": {
+      "ProjectGuid": "c7450bd9-d09a-4b3b-aeb4-c4fc6abb719d",
+      "DisplayName": "EcommereCore",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
